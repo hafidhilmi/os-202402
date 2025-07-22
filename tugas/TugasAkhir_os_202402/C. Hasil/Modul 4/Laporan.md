@@ -68,6 +68,9 @@ Write blocked as expected
 > Nilai dapat berbeda karena sifat acak
 
 ---
+### screenshot
+
+![hasil randomtest dan chomdtest](./Screenshot/modul4.png)
 
 ## ⚠️ Kendala yang Dihadapi
 
