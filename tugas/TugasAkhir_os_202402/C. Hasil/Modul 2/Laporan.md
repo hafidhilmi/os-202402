@@ -48,7 +48,7 @@ Child 2 selesai   // prioritas tinggi (10)
 Child 1 selesai   // prioritas rendah (90)
 Parent selesai
 ```
-
+![hasil ptest(./Screenshot/modul2.png)
 ---
 
 ## ⚠️ Kendala yang Dihadapi
