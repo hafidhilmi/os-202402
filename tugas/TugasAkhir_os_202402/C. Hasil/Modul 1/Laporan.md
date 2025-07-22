@@ -62,7 +62,7 @@ Read Count Setelah: 5
 Screenshot disimpan pada:
 
 ```
-./Screenshot/modul1.png
+![hasil ptest dan rtst](./Screenshot/modul1.png)
 ```
 
 ---
