@@ -61,7 +61,7 @@ Parent reads: B
 ```
 ### Screenshot
 
-![hasil randomtest dan chmodtest ](./Screenshot/modul3.png)
+![hasil shmtest](./Screenshot/modul3a.png)
 ---
 
 ## ⚠️ Kendala yang Dihadapi
