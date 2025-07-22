@@ -59,7 +59,9 @@ Parent sees: X
 Child reads: A
 Parent reads: B
 ```
+### Screenshot
 
+![hasil randomtest dan chmodtest ](./Screenshot/modul3.png)
 ---
 
 ## ⚠️ Kendala yang Dihadapi
