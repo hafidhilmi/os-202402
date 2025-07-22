@@ -63,7 +63,7 @@ Parent reads: B
 
 ![hasil shmtest](./Screenshot/modul3a.png)
 ---
-
+![hasil cowtest](./Screenshot/modul3b.png)
 ## ⚠️ Kendala yang Dihadapi
 
 * Salah dalam menentukan alamat saat page fault menyebabkan panic
