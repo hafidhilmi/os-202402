@@ -47,8 +47,10 @@ Fungsi program: membuat dua proses anak dengan prioritas berbeda dan melihat uru
 Child 2 selesai   // prioritas tinggi (10)
 Child 1 selesai   // prioritas rendah (90)
 Parent selesai
+````
 
 ### Screenshot
+
 ![hasil ptest dan rtest](./Screenshot/modul2.png)
 ---
 
