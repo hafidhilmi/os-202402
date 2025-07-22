@@ -49,6 +49,7 @@ Child 1 selesai   // prioritas rendah (90)
 Parent selesai
 ```
 
+---
 ![hasil ptest(./Screenshot/modul2.png)
 ---
 
